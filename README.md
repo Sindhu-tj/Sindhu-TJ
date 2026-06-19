@@ -1,4 +1,4 @@
-# Hi💫,I'm Sindhu TJ :
+# Hi 💫, I'm Sindhu TJ :
 Building LLM & AI Systems — RAG · Agents · Transformers · Generative AI | Full Stack Web Developer
 
 
